@@ -1,0 +1,19 @@
+{
+    "name": "v-jet/test",
+    "description": "study assignment",
+    "type": "project",
+    "license": "DS",
+    "authors": [
+        {
+            "name": "Denys Selivanov",
+            "email": "denselivanov39@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "liw\\": ""
+        }
+    }
+}
